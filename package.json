@@ -1,0 +1,19 @@
+{
+  "name": "nodeproject",
+  "version": "1.0.0",
+  "description": "A node tutorial",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dizzle2003/nodeproject.git"
+  },
+  "author": "Dennis O. Ajalie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dizzle2003/nodeproject/issues"
+  },
+  "homepage": "https://github.com/dizzle2003/nodeproject#readme"
+}
